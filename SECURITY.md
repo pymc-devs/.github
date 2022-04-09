@@ -1,3 +1,2 @@
-To report a security vulnerability to PyMC, please go to
-https://tidelift.com/security and see the instructions there.
+To report a security vulnerability to PyMC, please open an issue ticket
 
